@@ -44,4 +44,4 @@ pinout:
   uio[6]: "commit_rd[0] (out)"
   uio[7]: "commit_rd[1] (out)"
 
-  yaml_version: 6
+yaml_version: 6
